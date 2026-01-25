@@ -74,7 +74,7 @@ Arquitetura de ponta para automação, inteligência e resiliência.
 ### 📫 Conecte-se Comigo
 <p align="left">
 <a href="https://github.com/Chaos4455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chaos4455" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eliasandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasandrade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itilmgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itilmgf" height="30" width="40" /></a>
 </p>
 
 ---
