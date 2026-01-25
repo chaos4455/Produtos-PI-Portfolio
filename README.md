@@ -8,12 +8,19 @@
 
 ---
 
+<img width="597" height="302" alt="chrome_glqjrtW9cd" src="https://github.com/user-attachments/assets/867b8860-491a-42b0-be99-78700af3f2de" />
+
+
 ### 👨‍💻 Sobre Mim
 Atualmente atuando como **Innovation Architect & Researcher na O2 Data**, dedico minha carreira ao design de sistemas de IA de alta performance, seguros e explicáveis para infraestruturas de missão crítica. Com mais de 15 anos de estrada, transformo arquiteturas complexas em soluções escaláveis de dados e segurança.
 
 *   🔭 **Pesquisa Atual:** IA Generativa aplicada a SIEM e Defesa Cibernética.
 *   ⚡ **Especialidade:** Python Nativo, Sistemas Distribuídos e Zero-Knowledge Proofs.
 *   🏗️ **Filosofia:** "Strategic Products. Minimal Complexity."
+
+
+<img width="583" height="575" alt="chrome_Q3dXGDNCEc" src="https://github.com/user-attachments/assets/8adf8af1-9264-489b-abd0-84cd5dd2f387" />
+
 
 ---
 
