@@ -1,4 +1,4 @@
-# 🛡️ Elias Andrade | Innovation Architect & Researcher
+# 🛡️ Elias Andrade | Innovation Architect & Researcher 
 
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-VERIFIED%20ARCHITECT-brightgreen?style=for-the-badge&logo=checkmarx" alt="Verified Badge">
